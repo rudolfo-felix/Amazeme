@@ -1,5 +1,7 @@
 # Amazeme
-Advanced path algorithm program that solves some puzzles 
+Advanced path algorithm program that solves hard puzzles 
+
+
 
 # To compile
 Use makefile
